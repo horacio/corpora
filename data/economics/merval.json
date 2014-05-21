@@ -1,0 +1,89 @@
+{
+  "description": "Compañías que integran el índice Merval",
+  "companies": [
+    {
+      "symbol": "ALUA",
+      "company": "Aluar",
+      "sector": "Aluminium",
+      "participation": 2.904
+    },
+    {
+      "symbol": "APBR",
+      "company": "Petróleo Brasileiro",
+      "sector": "Petróleo",
+      "participation": 7.073
+    },
+    {
+      "symbol": "BMA",
+      "company": "Banco Macro",
+      "sector": "Banca",
+      "participation": 4.755
+    },
+    {
+      "symbol": "COME",
+      "company": "Sociedad Comercial del Plata",
+      "sector": "Bienes raíces",
+      "participation": 4.031
+    },
+    {
+      "symbol": "EDN",
+      "company": "Edenor",
+      "sector": "Distribución eléctrica",
+      "participation": 7.76
+    },
+    {
+      "symbol": "ERAR",
+      "company": "Siderar",
+      "sector": "Siderurgia",
+      "participation": 7.456
+    },
+    {
+      "symbol": "FRAN",
+      "company": "Banco Francés",
+      "sector": "Banca",
+      "participation": 3.874
+    },
+    {
+      "symbol": "GGAL",
+      "company": "Grupo Financiero Galicia",
+      "sector": "Finanzas",
+      "participation": 15.946
+    },
+    {
+      "symbol": "INDU",
+      "company": "Solvay Indupa",
+      "sector": "Química",
+      "participation": 2.32
+    },
+    {
+      "symbol": "PAMP",
+      "company": "Pampa Energía",
+      "sector": "Energía",
+      "participation": 7.903
+    },
+    {
+      "symbol": "PESA",
+      "company": "Petrobras Energía",
+      "sector": "Petróleo",
+      "participation": 4.397
+    },
+    {
+      "symbol": "TECO2",
+      "company": "Telecom Argentina",
+      "sector": "Telecomunicaciones",
+      "participation": 6.044
+    },
+    {
+      "symbol": "TS",
+      "company": "Tenaris",
+      "sector": "Metalúrgica",
+      "participation": 11.902
+    },
+    {
+      "symbol": "YPFD",
+      "company": "YPF",
+      "sector": "Petróleo",
+      "participation": 13.264
+    }
+  ]
+}
