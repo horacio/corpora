@@ -1,0 +1,225 @@
+{
+  "description": "Lista de triptaminas presentes en 'TiHKAL: The Continuation'",
+  "substances": [
+    {
+      "substance": "AL-LAD",
+      "chemical_name": "6-Allyl-N,N-diethyl-NL"
+    },
+    {
+      "substance": "DBT",
+      "chemical_name": "N,N-Dibutyl-T"
+    },
+    {
+      "substance": "DET",
+      "chemical_name": "N,N-Diethyl-T"
+    },
+    {
+      "substance": "DIPT",
+      "chemical_name": "N,N-Diisopropyl-T"
+    },
+    {
+      "substance": "alpha,O-DMS",
+      "chemical_name": "5-Methyoxy-alpha-methyl-T"
+    },
+    {
+      "substance": "DMT",
+      "chemical_name": "N,N-Dimethyl-T"
+    },
+    {
+      "substance": "2,alpha-DMT",
+      "chemical_name": "2,alpha-Dimethyl-T"
+    },
+    {
+      "substance": "alpha,N-DMT",
+      "chemical_name": "alpha,N-Dimethyl-T"
+    },
+    {
+      "substance": "DPT",
+      "chemical_name": "N,N-Dipropyl-T"
+    },
+    {
+      "substance": "EIPT",
+      "chemical_name": "N-Ethyl-N-isopropyl-T"
+    },
+    {
+      "substance": "alpha-ET",
+      "chemical_name": "alpha-Ethyl-T"
+    },
+    {
+      "substance": "ETH-LAD",
+      "chemical_name": "6,N,N-Triethyl-NL"
+    },
+    {
+      "substance": "Harmaline",
+      "chemical_name": "3,4-Dihydro-7-methoxy-1-methyl-C"
+    },
+    {
+      "substance": "Harmine",
+      "chemical_name": "7-Methyoxy-1-methyl-C"
+    },
+    {
+      "substance": "4-HO-DBT",
+      "chemical_name": "N,N-Dibutyl-4-hydroxy-T"
+    },
+    {
+      "substance": "4-HO-DET",
+      "chemical_name": "N,N-Diethyl-4-hydroxy-T"
+    },
+    {
+      "substance": "4-HO-DIPT",
+      "chemical_name": "N,N-Diisopropyl-4-hydroxy-T"
+    },
+    {
+      "substance": "4-HO-DMT",
+      "chemical_name": "N,N-Dimethyl-4-hydroxy-T"
+    },
+    {
+      "substance": "5-HO-DMT",
+      "chemical_name": "N,N-Dimethyl-5-hydroxy-T"
+    },
+    {
+      "substance": "4-HO-DPT",
+      "chemical_name": "N,N-Dipropyl-4-hydroxy-T"
+    },
+    {
+      "substance": "4-HO-MET",
+      "chemical_name": "N-Ethyl-4-hydroxy-N-methyl-T"
+    },
+    {
+      "substance": "4-HO-MIPT",
+      "chemical_name": "4-Hydroxy-N-isopropyl-N-methyl-T"
+    },
+    {
+      "substance": "4-HO-MPT",
+      "chemical_name": "4-Hydroxy-N-methyl-N-propyl-T"
+    },
+    {
+      "substance": "4-HO-pyr-T",
+      "chemical_name": "4-Hydroxy-N,N-tetramethylene-T"
+    },
+    {
+      "substance": "Ibogaine",
+      "chemical_name": "A complexly substituted-T"
+    },
+    {
+      "substance": "LSD",
+      "chemical_name": "N,N-Diethyl-L"
+    },
+    {
+      "substance": "MBT",
+      "chemical_name": "N-Butyl-N-methyl-T"
+    },
+    {
+      "substance": "4,5-MDO-DIPT",
+      "chemical_name": "N,N-Diisopropyl-4,5-methylenedioxy-T"
+    },
+    {
+      "substance": "5,6-MDO-DIPT",
+      "chemical_name": "N,N-Diisopropyl-5,6-methylenedioxy-T"
+    },
+    {
+      "substance": "4,5-MDO-DMT",
+      "chemical_name": "N,N-Dimethyl-4,5-methylenedioxy-T"
+    },
+    {
+      "substance": "5,6-MDO-DMT",
+      "chemical_name": "N,N-Dimethyl-5,6-methylenedioxy-T"
+    },
+    {
+      "substance": "5,6-MDO-MIPT",
+      "chemical_name": "N-Isopropyl-N-methyl-5,6-methylenedioxy-T"
+    },
+    {
+      "substance": "2-Me-DET",
+      "chemical_name": "N,N-Diethyl-2-methyl-T"
+    },
+    {
+      "substance": "2-Me-DMT",
+      "chemical_name": "2,N,N-Trimethyl-T"
+    },
+    {
+      "substance": "Melatonin",
+      "chemical_name": "N-Acetyl-5-methoxy-T"
+    },
+    {
+      "substance": "5-MeO-DET",
+      "chemical_name": "N,N-Diethyl-5-methoxy-T"
+    },
+    {
+      "substance": "5-MeO-DIPT",
+      "chemical_name": "N,N-Diisopropyl-5-methoxy-T"
+    },
+    {
+      "substance": "5-MeO-DMT",
+      "chemical_name": "5-Methoxy-N,N-dimethyl-T"
+    },
+    {
+      "substance": "4-MeO-MIPT",
+      "chemical_name": "N-Isopropyl-4-methoxy-N-methyl-T"
+    },
+    {
+      "substance": "5-MeO-MIPT",
+      "chemical_name": "N-Isopropyl-5-methoxy-N-methyl-T"
+    },
+    {
+      "substance": "5,6-MeO-MIPT",
+      "chemical_name": "5,6-Dimethoxy-N-isopropyl-N-methyl-T"
+    },
+    {
+      "substance": "5-MeO-NMT",
+      "chemical_name": "5-Methoxy-N-methyl-T"
+    },
+    {
+      "substance": "5-MeO-pyr-T",
+      "chemical_name": "5-Methoxy-N,N-tetramethylene-T"
+    },
+    {
+      "substance": "6-MeO-THH",
+      "chemical_name": "6-Methoxy-1-methyl-1,2,3,4-tetrahydro-C"
+    },
+    {
+      "substance": "5-MeO-TMT",
+      "chemical_name": "5-Methoxy-2,N,N-trimethyl-T"
+    },
+    {
+      "substance": "5-MeS-DMT",
+      "chemical_name": "N,N-Dimethyl-5-methylthio-T"
+    },
+    {
+      "substance": "MIPT",
+      "chemical_name": "N-Isopropyl-N-methyl-T"
+    },
+    {
+      "substance": "alpha-MT",
+      "chemical_name": "alpha-Methyl-T"
+    },
+    {
+      "substance": "NET",
+      "chemical_name": "N-Ethyl-T"
+    },
+    {
+      "substance": "NMT",
+      "chemical_name": "N-Methyl-T"
+    },
+    {
+      "substance": "PRO-LAD",
+      "chemical_name": "6-Propyl-NL"
+    },
+    {
+      "substance": "pyr-T",
+      "chemical_name": "N,N-Tetramethylene-T"
+    },
+    {
+      "substance": "T",
+      "chemical_name": "Tryptamine"
+    },
+    {
+      "substance": "Tetrahydroharmine",
+      "chemical_name": "7-Methoxy-1-methyl-1,2,3,4-tetrahydro-C"
+    },
+    {
+      "substance": "alpha,N,O-TMS",
+      "chemical_name": "alpha,N-Dimethyl-5-methoxy-T"
+    }
+  ]
+}
